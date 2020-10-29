@@ -15,5 +15,5 @@ Online-Voting-System
 ## Start
 ~ Start with file mention below.
 ```bash
-python new_attendance.py
+main.html
 ```
